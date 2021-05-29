@@ -1,1 +1,2 @@
 # SOM
+Society Of Motivation
